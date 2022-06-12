@@ -24,7 +24,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from file32 import bye
+        from crack32 import bye
 
 
         bye()
