@@ -16,7 +16,7 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from free64 import bye
+        from free32 import bye
  
         bye()
  
